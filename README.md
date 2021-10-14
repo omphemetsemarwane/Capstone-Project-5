@@ -1,5 +1,5 @@
 # Capstone-Project-5
-# Poised Firm 
+# Poised Firm Part 1
 # Project Information
 # Description
 
