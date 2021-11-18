@@ -1,5 +1,5 @@
 # Capstone-Project-5
-# Poised Firm Part 1
+# Poised Firm: OBJECT ORIENTATED PROGRAMMING
 # Project Information
 # Description
 
